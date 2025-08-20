@@ -18,7 +18,7 @@ I’m passionate about building scalable and efficient software solutions, combi
 I’m always excited to work on innovative projects and explore new ideas in software development. Feel free to reach out if you want to build something amazing together.
 ---
 ### 📫 How to Reach Me
-- Email: [your-email@example.com]
+- Email: [vaibhavrajoriya.21@gmail.com]
 - LinkedIn: [linkedin.com/in/vaibhav-rajoriya](https://www.linkedin.com/in/vaibhav-rajoriya-388768209/)
 ---
 
